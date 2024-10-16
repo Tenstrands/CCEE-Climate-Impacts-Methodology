@@ -1,0 +1,59 @@
+County Name,Climate Biome(s),CDPH Climate Impact Regions,2020-2029 (2025): Wildfire Probability,2030-2039 (2035): Wildfire Probability,2040-2049 (2045): Wildfire Probability,2050-2059 (2055): Wildfire Probability,,Change in Probability?
+Alameda,"Urban, Coastal, Grassland",Bay Area,0.2,0.2,0.2,0.2,,0
+Alpine,"Mountain, Forest",Southeast Sierra,0.1,0.1,0.1,0.1,,0
+Amador,"Forest, Grassland",North Sierra,0.1,0.1,0.1,0.1,,0
+Butte,"Forest, Grassland, Urban",Northern Central Valley,0.2,0.2,0.2,0.4,,1
+Calaveras,"Forest, Grassland",North Sierra,0.2,0.2,0.2,0.3,,1
+Colusa,"Ag. Lands, Grassland",Northern Central Valley,0.2,0.1,0.2,0.2,,0
+Contra Costa,"Urban, Coastal, Grassland",Bay Area,0.2,0.2,0.2,0.2,*,0
+Del Norte,"Coastal, Forest",North,0.2,0.2,0.3,0.2,,1
+El Dorado,"Forest, Mountain",North Sierra,0.2,0.2,0.2,0.3,,1
+Fresno,"Ag. Lands, Mountain, Grassland",Southern Central Valley,0.2,0.2,0.2,0.2,,0
+Glenn,"Ag. Lands, Grassland",Northern Central Valley,0.2,0.2,0.2,0.2,,0
+Humboldt,"Coastal, Forest",North,0.2,0.2,0.2,0.2,,0
+Imperial,"Desert, Ag. Lands",Desert,,,,,,0
+Inyo,"Desert, Mountain",Southeast Sierra,0.1,0.1,0.1,0.1,,0
+Kern,"Desert, Ag. Lands, Mountain",Southern Central Valley,0.2,0.2,0.2,0.2,,0
+Kings,"Ag. Lands, Grassland",Southern Central Valley,,,,,,0
+Lake,"Forest, Grassland",North Coast,0.2,0.2,0.2,0.3,,1
+Lassen,"Mountain, Forest, Grassland",North,0.2,0.2,0.2,0.2,,0
+Los Angeles,"Urban, Coastal, Mountain, Desert edges",South Coast,0.2,0.2,0.2,0.2,,0
+Madera,"Ag. Lands, Mountain",Northern Central Valley,0.2,0.2,0.2,0.2,,0
+Marin,"Coastal, Forest, Grassland",Bay Area,0.1,0.1,0.1,0.1,,0
+Mariposa,"Mountain, Forest",North Sierra,0.2,0.2,0.2,0.3,,1
+Mendocino,"Coastal, Forest",North,0.2,0.2,0.2,0.3,,1
+Merced,"Ag. Lands, Grassland",Northern Central Valley,0,0,0,0,,0
+Modoc,"Grassland, Forest",North,0.2,0.1,0.2,0.1,,0
+Mono,"Mountain, Desert edges",Southeast Sierra,0.1,0.1,0.1,0.1,,0
+Monterey,"Coastal, Ag. Lands, Grassland, Forest",Central Coast,0.2,0.3,0.3,0.3,,1
+Napa,"Ag. Lands (vineyards), Grassland",Bay Area,0.2,0.2,0.2,0.2,,0
+Nevada,"Forest, Mountain",North Sierra,0.2,0.2,0.2,0.3,,1
+Orange,"Urban, Coastal",South Coast,0.2,0.2,0.2,0.2,,0
+Placer,"Forest, Mountain, Urban edges",North Sierra,0.2,0.2,0.2,0.3,,1
+Plumas,"Forest, Mountain",North Sierra,0.2,0.2,0.2,0.3,,1
+Riverside,"Desert, Urban, Mountain edges",Desert,0.1,0.1,0.1,0.1,,0
+Sacramento,"Urban, Ag. Lands",Northern Central Valley,0,0,0,0,,0
+San Benito,"Ag. Lands, Grassland, Mountain",Central Coast,0.3,0.3,0.3,0.3,,0
+San Bernardino,"Desert, Mountain, Urban edges",Desert,0,0,0,0,,0
+San Diego,"Coastal, Desert, Urban, Mountain edges",South Coast,0.2,0.2,0.2,0.2,,0
+San Francisco,"Urban, Coastal",Bay Area,0,0,0,0,,0
+San Joaquin,"Ag. Lands, Urban",Northern Central Valley,0,0,0,0,,0
+San Luis Obispo,"Coastal, Ag. Lands, Grassland",Central Coast,0.2,0.2,0.2,0.2,,0
+San Mateo,"Coastal, Urban, Forest edges",Bay Area,0.1,0.1,0.1,0.2,,1
+Santa Barbara,"Coastal, Mountain, Ag. Lands",Central Coast,0.2,0.2,0.3,0.3,,1
+Santa Clara,"Urban, Grassland, Ag. Lands, Mountain edges",Bay Area,0.2,0.2,0.2,0.2,,0
+Santa Cruz,"Coastal, Forest",Central Coast,0.1,0.1,0.2,0.2,,1
+Shasta,"Forest, Mountain",North,0.2,0.2,0.3,0.4,,1
+Sierra,"Mountain, Forest",North Sierra,0.2,0.2,0.2,0.3,,1
+Siskiyou,"Mountain, Forest, Grassland",North,0.2,0.2,0.2,0.3,,1
+Solano,"Ag. Lands, Urban, Coastal edges",Bay Area,0.1,0.1,0.1,0.1,,0
+Sonoma,"Coastal, Ag. Lands (vineyards), Grassland",Bay Area,0.1,0.1,0.1,0.2,,1
+Stanislaus,"Ag. Lands, Grassland",Northern Central Valley,0,0,0,0,,0
+Sutter,"Ag. Lands, Grassland",Northern Central Valley,0,0,0,0,,0
+Tehama,"Grassland, Forest",Northern Central Valley,0.2,0.2,0.2,0.3,,1
+Trinity,"Mountain, Forest",North,0.2,0.2,0.2,0.3,,1
+Tulare,"Ag. Lands, Mountain, Grassland",Southern Central Valley,0.1,0.2,0.2,0.2,,1
+Tuolumne,"Mountain, Forest",North Sierra,0.2,0.2,0.2,0.3,,1
+Ventura,"Coastal, Ag. Lands, Mountain",South Coast,0.2,0.2,0.2,0.3,,1
+Yolo,"Ag. Lands, Grassland",Northern Central Valley,0.1,0.1,0.2,0.2,,1
+Yuba,"Forest, Grassland",Northern Central Valley,0.2,0.2,0.2,0.3,,1
