@@ -12,7 +12,7 @@ Ensure you have a Google account to use Google Colab.
 
 #### Setting Up Your Environment
 1. **Download the Project**:
-    - Go to the repository page on GitHub.
+    - Navigate to the top of this page.
     - Click the green **Code** button.
     - Select **Download ZIP**.
     - Extract the ZIP file on your local machine.
@@ -21,12 +21,14 @@ Ensure you have a Google account to use Google Colab.
     - Upload the extracted folder to your Google Drive.
 
 3. **Open Google Colab**:
-    - Open the template that you want to explore in the templates folder. The default option should open the template in Google Colab.
+    - Right click the template that you want to explore in the templates folder. Select `Open With`.
+    - Click Google Colaboratory.
+    - If Google Colaboratory isn't in the list, Click `Connect More Apps`. Type Colaboratory in the Search Bar and install the first option. 
 
 4. **Mount Google Drive**:
     - From the left sidebar, click `Files`.
-    - Under where it says Files, click the **Mount Drive** button. Colab should automatically insert a cell to run.
-    - Run the cell and follow the prompts. Select **Allow All** when Google Drive asks for access.
+    - Wait until the Runtime Connection prompt disappears and `sample data` appears. Click the **Mount Drive** button. Colab should automatically insert a cell to run.
+    - Run the cell by clicking the arrow and follow the prompts. Select **Select All** when Google Drive asks for access.
     - Wait a few seconds until you see `Mounted at /content/drive`. A `drive` folder should appear above `sample_data` on the left.
 
 5. **Set Working Directory**:
@@ -36,21 +38,21 @@ Ensure you have a Google account to use Google Colab.
     import os
     os.chdir('paste-path-here')
     ```
-    - Locate the `templates` folder inside `CCEE-Climate-Impacts-Methodology`. Click the three dots next to that folder and select **Copy path**.
+    - Locate the `templates` folder inside `CCEE-Climate-Impacts-Methodology-main`. Click the three dots next to that folder and select **Copy path**.
     - In the code cell where it says `paste-path-here`, delete it and paste in the path you just copied. Do not remove the single quotation marks.
     - Run the cell.
     - To confirm you are in the right directory. Add a new code cell like before and run:
     ```python
     !pwd
     ```
-    - You should see something ending in `../CCEE-Climate-Impacts-Methology/templates`.
+    - You should see something ending in `../CCEE-Climate-Impacts-Methology-main/templates`.
 
 
 6. **Run the Notebook**:
-    - Run template as you wish.
+    - Run the template as you wish by clicking the arrows or using Shift + Enter.
 
 7. **Exploring Other Templates**:
-    - Repeat steps 3-5 for the new template.
+    - Repeat steps 3-5 for a new template.
 
 ### Option 2: Local Setup
 
