@@ -21,7 +21,7 @@ Ensure you have a Google account to use Google Colab.
     - Upload the extracted folder to your Google Drive.
 
 3. **Open Google Colab**:
-    - Open one of the templates in the templates folder. The default option should open the template in Google Colab.
+    - Open the template that you want to explore in the templates folder. The default option should open the template in Google Colab.
 
 4. **Mount Google Drive**:
     - From the left sidebar, click `Files`.
@@ -47,7 +47,10 @@ Ensure you have a Google account to use Google Colab.
 
 
 6. **Run the Notebook**:
-    - Run any or all templates as you wish.
+    - Run template as you wish.
+
+7. **Exploring Other Templates**:
+    - Repeat steps 3-5 for the new template.
 
 ### Option 2: Local Setup
 
