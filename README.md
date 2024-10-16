@@ -27,9 +27,9 @@ Ensure you have a Google account to use Google Colab.
     - From the left sidebar, click `Files`.
     - Under where it says Files, click the **Mount Drive** button. Colab should automatically insert a cell to run.
     - Run the cell and follow the prompts. Select **Allow All** when Google Drive asks for access.
-    - Wait a few seconds until you see `Mounted at /content/drive` and the `drive` folder appear above `sample_data`.
+    - Wait a few seconds until you see `Mounted at /content/drive`. A `drive` folder should appear above `sample_data` on the left.
 
-6. **Set Working Directory**:
+5. **Set Working Directory**:
     - Hover below the cell you ran in step 4. There should be an option to `+ Code` or `+ Text`. Select `+ Code`.
     - Copy the following code into the new cell you created. This sets the working directory to the templates directory.
     ```python
@@ -37,21 +37,21 @@ Ensure you have a Google account to use Google Colab.
     os.chdir('paste-path-here')
     ```
     - Locate the `templates` folder inside `CCEE-Climate-Impacts-Methodology`. Click the three dots next to that folder and select **Copy path**.
-    - In the code cell where it says `paste-path-here`, delete that and paste in the path you just copied.
+    - In the code cell where it says `paste-path-here`, delete it and paste in the path you just copied. Do not remove the single quotation marks.
     - Run the cell.
-    - To confirm you are in the right directory. Add a new code cell like before and run.
+    - To confirm you are in the right directory. Add a new code cell like before and run:
     ```python
     !pwd
     ```
     - You should see something ending in `../CCEE-Climate-Impacts-Methology/templates`.
 
 
-8. **Run the Notebook**:
+6. **Run the Notebook**:
     - Run any or all templates as you wish.
 
 ### Option 2: Local Setup
 
-## Prerequisites
+#### Prerequisites
 Before running the Jupyter notebook, ensure that you have the following installed:
 
 - **Python**: Version 3.6 or higher is recommended. You can download it from the official Python website.
