@@ -1,7 +1,7 @@
-# CCEE Whitepaper Extreme Heat Analysis Template User Guide
+# CCEE Whitepaper Data Analysis Template User Guide
 
 ## Description
-This is the Jupyter Notebook for analyzing datasets for extreme heat in California, along with utility functions and datasets required for execution.
+These are the Jupyter Notebooks for analyzing extreme heat, FEMA risk, storms, and precipitation in California, along with utility functions and datasets required for execution.
 
 ## Installation Steps
 
