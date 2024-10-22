@@ -38,7 +38,7 @@ Ensure you have a Google account to use Google Colab.
     import os
     os.chdir('paste-path-here')
     ```
-    - Locate the `templates` folder inside `CCEE-Climate-Impacts-Methodology-main`. Click the three dots next to that folder and select **Copy path**.
+    - In your `drive` folder, locate the `templates` folder inside `CCEE-Climate-Impacts-Methodology-main`. Click the three dots next to that folder and select **Copy path**.
     - In the code cell where it says `paste-path-here`, delete it and paste in the path you just copied. Do not remove the single quotation marks.
     - Run the cell.
     - To confirm you are in the right directory. Add a new code cell like before and run:
