@@ -1,7 +1,7 @@
 # CCEE Whitepaper Data Analysis Template User Guide
 
 ## Description
-These are the Jupyter Notebooks for analyzing extreme heat, FEMA risk, storms, and precipitation in California, along with utility functions and datasets required for execution. All templates live in the `templates` folder. You may explore any number of templates with one download. For video instructions: click [here](https://drive.google.com/file/d/1Hkv9HWMZNBVzN2p48SPR7sx7j0Qpacgm/view?usp=sharing). 
+These are the Jupyter Notebooks for analyzing extreme heat, FEMA risk, storms, and precipitation in California, along with utility functions and datasets required for execution. All templates live in the `templates` folder. You may explore any number of templates with one download. For video instructions: click <a href="https://drive.google.com/file/d/1Hkv9HWMZNBVzN2p48SPR7sx7j0Qpacgm/view?usp=drive_link" target="_blank">here</a>. 
 
 ## Installation Steps
 
