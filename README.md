@@ -1,7 +1,7 @@
 # CCEE Whitepaper Data Analysis Template User Guide
 
 ## Description
-These are the Jupyter Notebooks for analyzing extreme heat, FEMA risk, storms, and precipitation in California, along with utility functions and datasets required for execution.
+These are the Jupyter Notebooks for analyzing extreme heat, FEMA risk, storms, and precipitation in California, along with utility functions and datasets required for execution. All templates live in the `templates` folder. You may explore any number of templates with one download. For video instructions: click [here](). 
 
 ## Installation Steps
 
@@ -27,7 +27,7 @@ Ensure you have a Google account to use Google Colab.
 
 4. **Mount Google Drive**:
     - From the left sidebar, click `Files`. It should look like a folder icon.
-    - Wait until the Runtime Connection prompt disappears and `sample data` appears. Click the **Mount Drive** button. Colab should automatically insert a cell to run.
+    - Wait until the Runtime Connection prompt disappears and `sample data` appears. Click the **Mount Drive** button. It should be a folder icon with the drive logo on it. Colab should automatically insert a cell to run.
     - Run the cell by clicking the arrow and follow the prompts. Select **Select All** when Google Drive asks for access.
     - Wait a few seconds until you see `Mounted at /content/drive`. A `drive` folder should appear above `sample_data` on the left.
 
