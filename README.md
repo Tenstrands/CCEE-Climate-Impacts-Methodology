@@ -50,9 +50,10 @@ Ensure you have a Google account to use Google Colab.
 
 6. **Run the Notebook**:
     - Run the template as you wish by clicking the arrows or using Shift + Enter.
+    - When you are done, under the `Runtime` tab, select `Disconnect and Delete Runtime`.
 
 7. **Exploring Other Templates**:
-    - Repeat steps 3-5 for a new template.
+    - Repeat steps 3-6 for a new template.
 
 ### Option 2: Local Setup
 
