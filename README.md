@@ -26,7 +26,7 @@ Ensure you have a Google account to use Google Colab.
     - If Google Colaboratory isn't in the list, Click `Connect More Apps`. Type Colaboratory in the Search Bar and install the first option. 
 
 4. **Mount Google Drive**:
-    - From the left sidebar, click `Files`.
+    - From the left sidebar, click `Files`. It should look like a folder icon.
     - Wait until the Runtime Connection prompt disappears and `sample data` appears. Click the **Mount Drive** button. Colab should automatically insert a cell to run.
     - Run the cell by clicking the arrow and follow the prompts. Select **Select All** when Google Drive asks for access.
     - Wait a few seconds until you see `Mounted at /content/drive`. A `drive` folder should appear above `sample_data` on the left.
